@@ -2,3 +2,18 @@
 BAD_BEN_KIM
 
 CPUID: Genuine Intel 6.2.c  SYSUSER 0xF0000065
+
+Stacktrace:
+  Java.exe exceeded heap space              0x057739b23557bbab
+  Exception handling service failure        0x7889621f9e1b3c8b
+  Network connection deauthenticated        0x0c6a7b4fa8b9298d
+  Network threat neutralized                0x78eeff11554e189c
+  Interprocess communication failure        0x0cde4b6b1db84be9
+  Fatal error: heart beat exceed limit      0x23e84b649d963371
+  Elliptic curve cryptography               0x0d9a931e27cc444f
+  Recursive error reporting                 0x02c70484862a362d
+  
+  Localhost msft service has been restored  0x0990489c27252380
+  Explorer.exe has exited with code -1      0x7b581c01c7b15252
+  Eclipse.exe has exited with code 0        0x6a9c5e7e5c249557
+  
